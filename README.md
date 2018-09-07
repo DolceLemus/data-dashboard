@@ -6,6 +6,10 @@ El Data Dashboard es una plataforma en la cual se muestran los datos de cada una
 
 ![image](https://user-images.githubusercontent.com/37418561/45245441-04479600-b2c2-11e8-9236-d7d313b5c2cc.png)
 
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 * **Track:** _Common Core_
 * **Curso:** _Creando tu primer sitio web interactivo_
 * **Unidad:** _Producto final_
@@ -96,6 +100,3 @@ A continuación el prototipo de la herramienta.
 
 https://marvelapp.com/374c7fj/screen/43329131
 
-
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)

@@ -34,7 +34,7 @@ El Data Dashboard es una plataforma en la cual se muestran los datos de cada una
 > Nota: No olvides que es una buena práctica describir tu proyecto en este
 > archivo `README.md` y también desplegar tu web a Github Pages :smiley:.
 
-# Desarrollo
+## Desarrollo
 
 ## Investgacion para el desarrollo del proyecto
 
